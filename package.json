@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taikim8484/Emaily.git",
+  "author": "taikim8484 <liemkhiet1010@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
