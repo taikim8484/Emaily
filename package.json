@@ -1,10 +1,21 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "repository": "https://github.com/taikim8484/Emaily.git",
-  "author": "taikim8484 <liemkhiet1010@gmail.com>",
-  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taikim8484/Emaily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taikim8484/Emaily/issues"
+  },
+  "homepage": "https://github.com/taikim8484/Emaily#readme",
   "dependencies": {
     "express": "^4.16.2"
   }
